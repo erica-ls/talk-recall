@@ -46,4 +46,4 @@ window.DEFAULT_TALK = {
 
 ## Credits
 
-This "Get Ready Game" was created by Erica Key, Chief Play Officer of Learning Seeds. The game was built for a TEDx rehearsal tool that she wanted to share with her cohort. As an educator, Erica was searching for ways to rehearse her script without rehearsing the mistakes using Skinnerian errorless teaching and reverse sequence acting strategies . So, she needed a tool that helped her  to drill her talk out of order, with errorless-learning habits: retrieval first, the correct version shown only when needed, and no marks on what went wrong.
+Built for a TEDx speaker who wanted to drill her talk out of order, with errorless-learning habits: retrieval first, the correct version shown only when needed, and no marks on what went wrong.
